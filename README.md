@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vinay362
+- 👋 Hi, I’m @Vinay malik
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning java script,bootstrap
 - 💞️ I’m looking to collaborate on ...
