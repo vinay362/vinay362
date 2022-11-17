@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vinay malik
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning java script,bootstrap
+- 🌱 I’m currently learning data structure with c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through my gmail .. vinaymalik7357@gmail.com
 
